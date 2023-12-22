@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodycrwasute.github.io/sitemap.xml
